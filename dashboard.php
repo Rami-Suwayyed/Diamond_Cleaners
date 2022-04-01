@@ -134,7 +134,7 @@
   if(isset($_GET['done'])){
   ?>
   <div class="review">
-    <p><i class="fa fa-check"></i> Order Received</p>
+    <p style=""><i class="fa fa-check"></i> Order Received</p>
     <a href="#" class="btn btn-info" id="review_btn">
       <i class="fa fa-star"></i> Service Review
     </a> 
