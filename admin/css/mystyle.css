@@ -1,0 +1,9 @@
+#add_pro_form input[type="text"], #add_pro_form textarea, #add_pro_form select{
+	width: 50%
+}
+#add_pro_form input.price {
+	width: 10%;
+}
+#add_pro_form textarea {
+	margin-bottom: 20px;
+}
